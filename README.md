@@ -14,7 +14,7 @@
 
 ### 👨‍💻 À propos de moi
 
-Passionné et rigoureux, je me spécialise dans la conception et le déploiement de solutions Web et Mobiles robustes. Actuellement **Consultant Développeur Full Stack** à l'**Agence Togo Digital (ATD)**, j'interviens sur des plateformes nationales critiques.
+Développeur Full Stack avec plus de 6 ans d'expérience dans la conception, l'architecture et le déploiement de solutions Web et Mobiles robustes. Je me spécialise dans la création d'architectures logicielles évolutives et la traduction de besoins d'affaires en solutions techniques performantes.
 
 - 🔭 **En ce moment :** Je développe des architectures backend avec **Nest.js** et des solutions mobiles avec **Flutter**.
 - 🛠 **Expertise :** Spécialisé en **Laravel**, **Vue.js** et **Flutter**.
@@ -42,6 +42,12 @@ Passionné et rigoureux, je me spécialise dans la conception et le déploiement
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanekuma&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
 </p>
+
+---
+
+### 📈 Activités GitHub
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StephaneKuma&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
