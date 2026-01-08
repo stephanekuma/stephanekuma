@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Stéphane%20Kossi%20KUMA&fontSize=70" />
 </p>
 
+<p align="center">
+  <a href="#"><img width="40%" height="auto" src="programming.svg"/></a>
+</p>
+
 <h3 align="center">Développeur Full Stack Web & Mobile | 6+ ans d'expérience 🚀</h3>
 
 <p align="center">
