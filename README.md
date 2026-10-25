@@ -15,16 +15,38 @@
 
 ### 👨‍💻 À propos de moi
 
-Architecte solution à Lomé, je conçois des plateformes web et mobiles depuis 2019, après une licence en génie logiciel. Des agences togolaises aux projets de digitalisation publique, en passant par Kimoasoft et Kutiwa, j'ai appris à partir du métier avant d'écrire la première ligne de code.
+Architecte solution à Lomé, je conçois des plateformes web et mobiles depuis 2019, après une licence en génie logiciel. Des agences web aux projets de digitalisation publique, j'ai appris à partir du métier avant d'écrire la première ligne de code.
 
 À côté, je construis Simplycia, un SaaS de gestion locative qui me sert de terrain d'essai, et je prépare un master en IA et big data. Ma règle : des décisions écrites, un code qui reste au client, des étapes courtes.
 
 - 🏗 **En ce moment :** architecte solution sur des projets de digitalisation publique.
 - 🧪 **Side project :** **Simplycia**, SaaS de gestion locative (multi-tenant, event sourcing, NestJS, RabbitMQ, EventStoreDB).
 - 🛠 **Au quotidien :** **Laravel**, **NestJS**, **Vue.js / Nuxt** et **Flutter**.
-- 🤝 **Ouvert aux missions :** conception de plateformes, audit d'architecture, accompagnement technique → [stephane-k.dev](https://stephane-k.dev).
-- 🎓 **En formation :** master IA & big data (Ascencia Keyce).
+- 🎓 **En formation :** master IA & big data.
 - 🌍 **Langues :** Français (natif), Anglais (intermédiaire).
+
+---
+
+### 🚀 Projets
+
+| Projet | Statut | En bref |
+| :--- | :--- | :--- |
+| [**Simplycia Rent**](https://stephane-k.dev/projects/simplycia-rent) | v2 en cours | SaaS multi-tenant de gestion locative pour l'Afrique de l'Ouest francophone, en DDD, CQRS et event sourcing (NestJS, KrakenD, Keycloak, EventStoreDB, RabbitMQ). |
+| [**stephane-k.dev**](https://stephane-k.dev/projects/stephane-k-dev) | en production | Mon site, conçu comme une petite plateforme : front Nuxt en SSR, API Laravel documentée, administration Filament, déploiement Docker Swarm. |
+
+➡️ [Tous les projets](https://stephane-k.dev/projects)
+
+---
+
+### 🤝 Ce que je propose
+
+- 🧭 [**Architecture de plateforme**](https://stephane-k.dev/services/architecture-plateforme) : concevoir une plateforme qui tient la charge et l'évolution.
+- 🔍 [**Audit & revue d'architecture**](https://stephane-k.dev/services/audit-architecture) : un regard extérieur sur un système existant, avec des priorités claires.
+- 🧑‍🏫 [**Accompagnement technique**](https://stephane-k.dev/services/accompagnement-technique) : aider une équipe à prendre les bonnes décisions, dans la durée.
+- 🛠 [**Réalisation**](https://stephane-k.dev/services/realisation) : développer l'application, du back-end au mobile.
+- 🎓 **Formations** : [DDD](https://stephane-k.dev/services/formation-architecture-ddd), [Laravel](https://stephane-k.dev/services/formation-laravel), [Flutter](https://stephane-k.dev/services/formation-flutter), [Vue.js & Nuxt](https://stephane-k.dev/services/formation-vue-nuxt), [NestJS & microservices](https://stephane-k.dev/services/formation-nestjs-microservices), [Docker & CI/CD](https://stephane-k.dev/services/formation-docker-ci-cd), [sécurité des API](https://stephane-k.dev/services/formation-securite-api), [spécifications](https://stephane-k.dev/services/formation-specifications).
+
+📅 [Réserver un appel de 30 min](https://calendly.com/kumastephane/30min) · [Me contacter](https://stephane-k.dev/contact)
 
 ---
 
@@ -36,6 +58,7 @@ Architecte solution à Lomé, je conçois des plateformes web et mobiles depuis 
 | **Frontend** | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |
 | **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
 | **Bases de données** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Architecture & messaging** | ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white) ![EventStoreDB](https://img.shields.io/badge/EventStoreDB-5AB552?style=flat-square) |
 | **Outils & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-FF6A00?style=flat-square) |
 
 ---
