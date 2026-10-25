@@ -1,0 +1,25 @@
+# Keeps the "Derniers articles du blog" section of the README in sync with
+# the RSS feed of stephane-k.dev.
+name: Derniers articles du blog
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/blog-posts.yml']
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: 'https://stephane-k.dev/rss.xml'
+          max_post_count: 5
+          commit_message: 'docs: update latest blog posts'
