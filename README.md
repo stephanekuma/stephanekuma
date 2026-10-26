@@ -66,6 +66,7 @@ Architecte solution à Lomé, je conçois des plateformes web et mobiles depuis 
 ### 📝 Derniers articles du blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Ce que la revue de code m&#39;a appris en encadrant une équipe](https://stephane-k.dev/blog/ce-que-la-revue-de-code-ma-appris-en-encadrant-une-equipe)
 - [Microservices : Laravel ou NestJS ?](https://stephane-k.dev/blog/microservices-laravel-or-nestjs)
 - [Laravel ou NestJS : comment je choisis](https://stephane-k.dev/blog/laravel-vs-nestjs)
 <!-- BLOG-POST-LIST:END -->
