@@ -66,6 +66,7 @@ Architecte solution à Lomé, je conçois des plateformes web et mobiles depuis 
 ### 📝 Derniers articles du blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Les principes SOLID en pratique, à partir de vrais commentaires de revue](https://stephane-k.dev/blog/les-principes-solid-en-pratique-a-partir-de-vrais-commentaires-de-revue)
 - [Les patterns de conception que j&#39;utilise au quotidien](https://stephane-k.dev/blog/les-patterns-de-conception-que-jutilise-au-quotidien)
 - [Ce que la revue de code m&#39;a appris en encadrant une équipe](https://stephane-k.dev/blog/ce-que-la-revue-de-code-ma-appris-en-encadrant-une-equipe)
 - [Microservices : Laravel ou NestJS ?](https://stephane-k.dev/blog/microservices-laravel-or-nestjs)
