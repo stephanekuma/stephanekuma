@@ -66,11 +66,11 @@ Architecte solution à Lomé, je conçois des plateformes web et mobiles depuis 
 ### 📝 Derniers articles du blog
 
 <!-- BLOG-POST-LIST:START -->
+- [La gestion d&#39;état en Flutter : setState, Provider, Riverpod ou Bloc](https://stephane-k.dev/blog/la-gestion-detat-en-flutter-setstate-provider-riverpod-ou-bloc)
 - [La Clean Architecture avec Flutter : découper par fonctionnalité et par couche](https://stephane-k.dev/blog/la-clean-architecture-avec-flutter-decouper-par-fonctionnalite-et-par-couche)
 - [Les principes SOLID en pratique, à partir de vrais commentaires de revue](https://stephane-k.dev/blog/les-principes-solid-en-pratique-a-partir-de-vrais-commentaires-de-revue)
 - [Les patterns de conception que j&#39;utilise au quotidien](https://stephane-k.dev/blog/les-patterns-de-conception-que-jutilise-au-quotidien)
 - [Ce que la revue de code m&#39;a appris en encadrant une équipe](https://stephane-k.dev/blog/ce-que-la-revue-de-code-ma-appris-en-encadrant-une-equipe)
-- [Microservices : Laravel ou NestJS ?](https://stephane-k.dev/blog/microservices-laravel-or-nestjs)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Tous les articles](https://stephane-k.dev/blog) · [Flux RSS](https://stephane-k.dev/rss.xml)
